@@ -1,0 +1,6 @@
+com\codeteam\CrudCode\CrudCodeApplication.class
+com\codeteam\CrudCode\Model\Tarea.class
+com\codeteam\CrudCode\Controller\TareaController.class
+com\codeteam\CrudCode\Service\TareaService.class
+com\codeteam\CrudCode\Service\TareaServiceImplement.class
+com\codeteam\CrudCode\Dao\TareaDao.class
